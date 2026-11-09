@@ -1,0 +1,5 @@
+Dataset,N,Active,Inactive,Active fraction,Label source
+Training set (80%; observed labels),6537,4560,1977,69.76%,Observed pIC50
+Held-out test set (20%; observed labels),1635,1140,495,69.72%,Observed pIC50
+New compounds (model-predicted),3999,4,3995,0.10%,Predicted by Random Forest (Morgan)
+Total labelled data,8172,5700,2472,69.75%,Observed pIC50

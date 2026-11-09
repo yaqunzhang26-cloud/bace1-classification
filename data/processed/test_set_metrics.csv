@@ -1,0 +1,2 @@
+Selected_Fingerprint,Selected_Model,Selection_CV_ROC_AUC_mean,Accuracy,Sensitivity,Specificity,F1,ROC_AUC,TN,FP,FN,TP,Test_n,Train_n,Activity_threshold_pIC50
+Morgan,Random Forest,0.9149234657254309,0.8581039755351682,0.881578947368421,0.804040404040404,0.8965209634255129,0.9199034201665781,398,97,135,1005,1635,6537,6.0

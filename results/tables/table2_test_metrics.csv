@@ -1,0 +1,2 @@
+Fingerprint,Model,CV_ROC_AUC,Accuracy,Sensitivity,Specificity,F1,ROC_AUC,TN,FP,FN,TP,Test_n,Train_n,Threshold
+Morgan,Random Forest,0.9149,0.8581,0.8816,0.8040,0.8965,0.9199,398,97,135,1005,1635,6537,6.0

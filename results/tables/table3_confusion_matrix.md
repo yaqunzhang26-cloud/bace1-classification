@@ -1,0 +1,4 @@
+|  | Predicted Inactive | Predicted Active |
+|---|---|---|
+| True Inactive | 398 | 97 |
+| True Active | 135 | 1005 |
